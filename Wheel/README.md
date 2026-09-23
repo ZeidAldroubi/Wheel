@@ -1,15 +1,18 @@
 # Decision Wheel
 
-## Run the game
+A simple two-player Tic-Tac-Toe game built with React and Vite.
 
-1. Open PowerShell.
-2. Run:
+## Requirements
 
-```powershell
-cd "C:\Users\droub\Desktop\Personal Projects\Wheel Program\Wheel"
+- [Node.js](https://nodejs.org/) installed
+
+## Run locally
+
+From this project folder, run:
+
+```bash
+npm install
 npm run dev
 ```
 
-3. Open the `localhost` URL shown in PowerShell.
-
-Press `Ctrl+C` in PowerShell to stop the game.
+Open the `localhost` URL shown in the terminal. Press `Ctrl+C` to stop the app.
