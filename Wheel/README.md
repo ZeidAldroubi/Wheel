@@ -1,6 +1,6 @@
 # Decision Wheel
 
-A simple two-player Tic-Tac-Toe game built with React and Vite.
+A simple decision wheel built with React and Vite.
 
 ## Requirements
 
